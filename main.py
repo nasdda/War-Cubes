@@ -1,3 +1,8 @@
+"""
+@Author: Xin Yan
+@Date Finished: 8/1/2019
+"""
+
 import sys
 import pygame
 from player import player
