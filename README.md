@@ -1,6 +1,8 @@
 # War-Cubes
 First pygame project
 
+Download 'War Cubes.rar' for .exe launchable.
+
 Mouse left click to move.
 
 Q key to shoot toward mouse cursor.
